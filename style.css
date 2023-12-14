@@ -1,0 +1,57 @@
+.container1{
+    max-width: 25%;
+    height: 90vh;
+    background-color: #132a41;
+    background-image: url("./img/sidebar-bg.png");
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: -30px;
+    border: 2px solid red;
+}
+
+.container1 li{
+    list-style-type: none;
+}
+
+.container1 div ul{
+    margin-top: 10px;
+}
+
+.my-custom-width{
+    min-width: 270px
+}
+
+.parte-celeste{
+    background-color: #1b72e8;
+    height: 250px;
+    width: 100%;
+    border: 2px solid lime
+}
+
+.bordi{
+    border: 4px solid blueviolet;
+}
+
+main.d-flex {
+    display: flex;
+}
+
+section div h2 svg{
+margin: 5px;
+background-color: #1b72e8;
+border:2px solid white;
+
+}
+
+.container1 {
+    flex: 1; /* Il container1 occupa tutto lo spazio disponibile */
+    padding: 15px; /* Aggiungi un po' di spazio intorno a container1 */
+}
+
+section div span{
+    background-color: #165bba;
+    border-radius: 20px;
+    padding: 5px;
+     
+}
