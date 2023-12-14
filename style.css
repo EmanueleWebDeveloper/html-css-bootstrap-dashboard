@@ -45,17 +45,20 @@ border:2px solid white;
 }
 
 .container1 {
-    flex: 1; /* Il container1 occupa tutto lo spazio disponibile */
-    padding: 15px; /* Aggiungi un po' di spazio intorno a container1 */
+    
+    padding: 15px; 
 }
 
 section div span{
     background-color: #165bba;
     border-radius: 20px;
-    padding: 5px;
-     
+    padding: 2px;
 }
 
 #icona{
-    width: 40px;
+    width: 15%;
+}
+
+.container{
+    border: 2px solid orchid;
 }
