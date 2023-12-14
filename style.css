@@ -24,7 +24,7 @@
 
 .parte-celeste{
     background-color: #1b72e8;
-    height: 250px;
+    height: 220px;
     width: 100%;
     border: 2px solid lime
 }
@@ -54,4 +54,8 @@ section div span{
     border-radius: 20px;
     padding: 5px;
      
+}
+
+#icona{
+    width: 40px;
 }
