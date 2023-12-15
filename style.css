@@ -1,40 +1,6 @@
-
-.my-custom-width{
-    min-width: 270px
-}
-
-.parte-celeste{
-    background-color: #1b72e8;
-    width: 100%;
-    border: 2px solid lime
-}
-
-main.d-flex {
-    display: flex;
-}
-
-section div h2 svg{
-margin: 5px;
-background-color: #1b72e8;
-border:2px solid white;
-
-}
-
-section div span{
-    background-color: #165bba;
-    border-radius: 20px;
-    padding: 2px;
-}
-
-#icona{
-    width: 15%;
-}
-
-.container{
-    border: 2px solid orchid;
-}
-
-.backblu{
+main #sidebar{
     background-image: url(./img/sidebar-bg.png);
-    background-color: #0e233b;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
