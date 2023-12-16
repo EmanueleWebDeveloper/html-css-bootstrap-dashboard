@@ -4,3 +4,11 @@ main #sidebar{
     background-size: cover;
     background-position: center;
 }
+
+.container-fluid.bg-primary.text-light ol.breadcrumb li {
+    color: white; 
+  }
+
+  .container-fluid.bg-primary.text-light ol.breadcrumb li.text a {
+    color: white; 
+  }
