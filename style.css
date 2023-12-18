@@ -12,3 +12,7 @@ main #sidebar{
   .container-fluid.bg-primary.text-light ol.breadcrumb li.text a {
     color: white; 
   }
+
+  .breadcrumb-item+.breadcrumb-item::before{
+    color: white;
+  }
